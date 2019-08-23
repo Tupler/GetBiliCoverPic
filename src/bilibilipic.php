@@ -1,5 +1,6 @@
 
 
+
 <?php
 /**
  * 利用BiliBili API提取video信息，利用正则表达式提取封面（这里为json格式，但我为了封面就没解析json。）
